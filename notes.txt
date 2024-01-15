@@ -1,0 +1,12 @@
+WATCH VIDEO https://drive.google.com/file/d/1qMtM2QKOLzj9DeE82-VG3COz8nNwJOa3/view?usp=sharing
+
+USE FEW COMMAND
+ open frontend folder and run npm i {
+    if throw any error for {Link , to} then please use npm i react-router-dom
+ }
+ open backend folder and run npm i express node-persist cors 
+
+api {
+    GET http://localhost:5000/task/
+    POST http://localhost:5000/task/
+}
